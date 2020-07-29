@@ -32,4 +32,5 @@ def retrieve_element_from_index (a, b )
   a[2] 
 end
 
-def 
+def retrieve_first_element_from_array (a, b)
+  
