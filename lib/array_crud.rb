@@ -33,4 +33,5 @@ def retrieve_element_from_index (a, b )
 end
 
 def retrieve_first_element_from_array (a, b)
-  a = 
+  a = ["wow", "I", "am", "really", "learning", "arrays!"]
+  
