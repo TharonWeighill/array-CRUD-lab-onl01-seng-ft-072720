@@ -34,5 +34,5 @@ end
 
 def retrieve_first_element_from_array (a)
   a = ["wow", "I", "am", "really", "learning", "arrays!"]
-  a.[0]
+  a.first
 end
