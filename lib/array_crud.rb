@@ -28,4 +28,5 @@ wow = a.shift
 end
 
 def retrieve_element_from_index (a)
-  a = 
+  a = ["wow", "I", "am", "really", "learning", "arrays!"]
+  
