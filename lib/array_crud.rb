@@ -32,3 +32,4 @@ def retrieve_element_from_index (a, b )
   a[2] 
 end
 
+def 
