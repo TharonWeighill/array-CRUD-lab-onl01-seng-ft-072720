@@ -28,4 +28,4 @@ wow = a.shift
 end
 
 def retrieve_element_from_index (a)
-  
+  a = 
