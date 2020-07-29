@@ -24,5 +24,5 @@ end
 
 def remove_element_from_start_of_array (a)
   a = ["hi", "bye", "arrays!"]
-  hi = a.
-  
+  hi = a.shift
+end
