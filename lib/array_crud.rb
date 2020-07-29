@@ -32,7 +32,7 @@ def retrieve_element_from_index (a, b )
   a[2] 
 end
 
-def retrieve_first_element_from_array (a) (b)
+def retrieve_first_element_from_array (a)
   a = ["wow", "I", "am", "really", "learning", "arrays!"]
   a.first
 end
