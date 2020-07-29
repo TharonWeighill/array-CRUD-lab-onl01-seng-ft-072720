@@ -38,4 +38,4 @@ def retrieve_first_element_from_array (a)
 end
 
 def retrieve_last_element_from_array (a)
-  a = retrieve_last_element_from_array
+  a = 
