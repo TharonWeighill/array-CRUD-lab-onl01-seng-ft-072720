@@ -31,3 +31,4 @@ def retrieve_element_from_index (a, b )
   a = ["wow", "I", "am", "really", "learning", "arrays!"]
   a[2] 
 end
+
