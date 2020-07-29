@@ -27,4 +27,5 @@ def remove_element_from_start_of_array (a)
 wow = a.shift
 end
 
-def 
+def retrieve_element_from_index (a)
+  
