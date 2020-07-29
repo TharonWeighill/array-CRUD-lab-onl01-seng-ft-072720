@@ -22,4 +22,7 @@ a = ["HI", "arrays!"]
 arrays= a.pop
 end
 
-def remove_fromstart_of_array (a)
+def remove_element_from_start_of_array (a)
+  a = ["hi", "bye", "arrays!"]
+  hi = a.
+  
