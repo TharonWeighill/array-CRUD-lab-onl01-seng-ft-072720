@@ -26,3 +26,5 @@ def remove_element_from_start_of_array (a)
   a = ["wow", "arrays!"]
 wow = a.shift
 end
+
+def 
