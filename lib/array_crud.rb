@@ -37,4 +37,4 @@ def retrieve_first_element_from_array (a)
   a.first
 end
 
-def
+def 
